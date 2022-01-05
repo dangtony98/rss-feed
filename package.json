@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/dangtony98/rss-feed/issues"
   },
-  "homepage": "https://github.com/dangtony98/rss-feed#readme"
+  "homepage": "https://github.com/dangtony98/rss-feed#readme",
+  "dependencies": {
+    "rss-parser": "^3.12.0"
+  }
 }
